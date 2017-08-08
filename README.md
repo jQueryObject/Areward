@@ -1,4 +1,4 @@
-# 打赏demoAreward
+# 打赏demo (Areward demo)
 
 效果如下：
 ![](img/img.gif)
